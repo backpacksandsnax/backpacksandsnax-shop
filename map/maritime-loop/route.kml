@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name><![CDATA[Nova Scotia & New Brunswick Road Trip]]></name>
-    <description>Road trip loop from Yarmouth via Wolfville, Grand Pre, Parrsboro, Hopewell Rocks NB, Baddeck (Cape Breton), Lunenburg, and Shelburne, back to Yarmouth. 8 days, 7 nights, 1,105 mi, ~19h drive total. #backpacksandsnax More trips like this: https://www.instagram.com/backpacksandsnax</description>
+    <description>Road trip loop from Yarmouth via Wolfville, Grand Pre, Parrsboro, Hopewell Rocks NB, Baddeck (Cape Breton), Lunenburg, and Shelburne, back to Yarmouth. 8 days, 7 nights, 1,105 mi, ~19h drive total. As driven July 2025. This is our trip report, not professional guidance. Tides, closures, ferry times, and park rules change, so check them before you go. Trail safety notes: https://backpacksandsnax.com/trail-safety.html More trips like this: https://www.instagram.com/backpacksandsnax</description>
     <Style id="icon-1517-880E4F-normal">
       <IconStyle>
         <color>ff4f0e88</color>
@@ -249,7 +249,7 @@
       <name>Trip Stops</name>
       <Placemark>
         <name>The CAT | Yarmouth, NS - Bay Ferries Limited</name>
-        <description><![CDATA[DAY 1 (Fri) & DAY 8 (Fri) — The CAT ferry, Bar Harbor ME ⇄ Yarmouth NS.]]></description>
+        <description><![CDATA[Day 1 and Day 8: The CAT ferry, Bar Harbor ME ⇄ Yarmouth NS.]]></description>
         <styleUrl>#icon-1899-E65100</styleUrl>
         <Point>
           <coordinates>
@@ -259,7 +259,7 @@
       </Placemark>
       <Placemark>
         <name>Tattingstone Inn</name>
-        <description><![CDATA[DAY 1 (Fri) — 1 night. Arrive ~9pm after the 2.5hr drive from Yarmouth. Sat morning: Wolfville Farmers' Market (8:30–1).]]></description>
+        <description><![CDATA[Day 1: 1 night. Arrive ~9pm after the 2.5hr drive from Yarmouth. Day 2 morning: Wolfville Farmers' Market if it's running.]]></description>
         <styleUrl>#icon-1603-0097A7</styleUrl>
         <Point>
           <coordinates>
@@ -269,7 +269,7 @@
       </Placemark>
       <Placemark>
         <name>Luckett Vineyards</name>
-        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR62OBQN-KAgS8p9-QfQDKBZjcGqUIZmY3DvdrqWCK-v2UuzKaCyZf07pT8iSx-GJu7IoNN_jbM5AZJKNQ0YP0mgjV696Y2QaJja1yK8rq-2bqijTmrV9by3p6AwfK_CXqqdbdMcB5GPUbcrNg73uGd_1bwswaMVvI3_IThNQOvnAmkxufMRaNK2ni_cwVLx08Dts2X2iy5ea_NT8M5MrTHXWIOWILdl6LJr-E9nAE_QOPsxNtZw1CUc3Ns?fife=s16383" height="200" width="auto" /><br><br>Day-trip stop near Grand Pré — wine tasting + photo op. Also nearby: Tangled Garden, Domaine de Grand Pré, Blue Beach, Benjamin Bridge, Lightfoot & Wolves.]]></description>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR62OBQN-KAgS8p9-QfQDKBZjcGqUIZmY3DvdrqWCK-v2UuzKaCyZf07pT8iSx-GJu7IoNN_jbM5AZJKNQ0YP0mgjV696Y2QaJja1yK8rq-2bqijTmrV9by3p6AwfK_CXqqdbdMcB5GPUbcrNg73uGd_1bwswaMVvI3_IThNQOvnAmkxufMRaNK2ni_cwVLx08Dts2X2iy5ea_NT8M5MrTHXWIOWILdl6LJr-E9nAE_QOPsxNtZw1CUc3Ns?fife=s16383" height="200" width="auto" /><br><br>Day 2 stop near Grand Pré: wine tasting and the red phone booth photo op. Also nearby: Tangled Garden, Domaine de Grand Pré, Blue Beach, Benjamin Bridge, Lightfoot & Wolfville.]]></description>
         <styleUrl>#icon-1517-880E4F</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
@@ -284,7 +284,7 @@
       </Placemark>
       <Placemark>
         <name>Gillespie House Inn</name>
-        <description>DAYS 2–3 (Sat–Sun) — 2 nights. Sat: hiking around Parrsboro. Sun: day trip to Hopewell Rocks (2hrs each way) to see the Bay of Fundy tides — time the visit around low tide to walk the ocean floor.</description>
+        <description>Days 2 and 3: 2 nights. Day 2: hiking around Parrsboro; the tide runs the whole Fundy shore, so check it before you walk out on the beaches. Day 3: day trip to Hopewell Rocks (2hrs each way) to see the Bay of Fundy tides, timed around low tide to walk the ocean floor.</description>
         <styleUrl>#icon-1603-006064</styleUrl>
         <Point>
           <coordinates>
@@ -294,7 +294,7 @@
       </Placemark>
       <Placemark>
         <name>Hopewell Rocks Provincial Park</name>
-        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR6sv6bKg-Ah0wqxyH6CfGdunPB9C7HZ0OjYTeHbvv_z7tjztWdSNXrTUPqg9q4mE9IlSnpH56m-jhrUJpLqOj_LMaPey6tYKGPWeL5oX5Mi9XafN8epT6065AkJTy60Vu1z7EGW252K-sW2t6jIY2XHJjQkvcnlU05iwWgn1xbYE6k_SqwI4zix1eNOYQBDC6fotiB0hLYxFS73XcflQCGsoi68fysh0JNHvRQkEoIlkKxjSENM7NhDyLY?fife=s16383" height="200" width="auto" /><br><br>DAY 3 (Sun) day trip from Parrsboro (2hrs each way). The Bay of Fundy has the highest tides on Earth (up to ~48ft) — walk the ocean floor among the flowerpot rocks at low tide, then paddle/boat over the same spot at high tide. PLAN AROUND THE TIDE: official tide tables → https://www.thehopewellrocks.ca/en/parks/33/hopewell-rocks-provincial-park/26/tide-tables (govt backup: tides.gc.ca station 00170).]]></description>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR6sv6bKg-Ah0wqxyH6CfGdunPB9C7HZ0OjYTeHbvv_z7tjztWdSNXrTUPqg9q4mE9IlSnpH56m-jhrUJpLqOj_LMaPey6tYKGPWeL5oX5Mi9XafN8epT6065AkJTy60Vu1z7EGW252K-sW2t6jIY2XHJjQkvcnlU05iwWgn1xbYE6k_SqwI4zix1eNOYQBDC6fotiB0hLYxFS73XcflQCGsoi68fysh0JNHvRQkEoIlkKxjSENM7NhDyLY?fife=s16383" height="200" width="auto" /><br><br>Day 3 day trip from Parrsboro (2hrs each way). The Bay of Fundy has the highest tides on Earth (up to ~48ft). Walk the ocean floor among the flowerpot rocks at low tide, then come back at high tide and watch kayakers paddle over the same spot. Ocean floor only around low tide: follow the posted danger time at the stairs and never head out on a rising tide. Seasonal park, check it's open. Official tide tables: https://www.thehopewellrocks.ca/en/parks/33/hopewell-rocks-provincial-park/26/tide-tables (govt backup: tides.gc.ca station 00170).]]></description>
         <styleUrl>#icon-1684-006064</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
@@ -309,7 +309,7 @@
       </Placemark>
       <Placemark>
         <name><![CDATA[Telegraph House & Motel]]></name>
-        <description>DAYS 4–5 (Mon–Tue) — 2 nights. Mon: drive in via New Glasgow/Stellarton. Explore Middlehead Trail (Ingonish). Tue: drive the Cabot Trail (Mr. Chicken ice cream stop in Chéticamp); dinner at The Cable Room in-house.</description>
+        <description>Days 4 and 5: 2 nights. Day 4: drive in via New Glasgow/Stellarton; Middlehead Trail (Ingonish) is in Cape Breton Highlands National Park, so grab a park pass. Day 5: drive the Cabot Trail; fill up before the Highlands, cell service is patchy, watch for moose at dusk, no drones in the park (Mr. Chicken ice cream stop in Chéticamp); dinner at The Cable Room in-house.</description>
         <styleUrl>#icon-1603-006064</styleUrl>
         <Point>
           <coordinates>
@@ -319,7 +319,7 @@
       </Placemark>
       <Placemark>
         <name>Lunenburg Arms Hotel</name>
-        <description>DAY 6 (Wed) — 1 night. Explore the UNESCO Old Town waterfront.</description>
+        <description>Day 6: 1 night. Explore the UNESCO Old Town waterfront.</description>
         <styleUrl>#icon-1603-006064</styleUrl>
         <Point>
           <coordinates>
@@ -329,7 +329,7 @@
       </Placemark>
       <Placemark>
         <name><![CDATA[The Coopers Inn B&B]]></name>
-        <description>DAY 7 (Thu) — 1 night. Check out The Emerald Light nearby.</description>
+        <description>Day 7: 1 night. Check out The Emerald Light nearby.</description>
         <styleUrl>#icon-1603-006064</styleUrl>
         <Point>
           <coordinates>
