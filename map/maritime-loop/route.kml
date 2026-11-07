@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>The Maritime Loop: Nova Scotia, Cape Breton, and New Brunswick</name>
-    <description>Our 8-day loop from the Yarmouth ferry: Wolfville, Grand Pré, Parrsboro, Hopewell Rocks (New Brunswick), Baddeck and the full Cabot Trail, Peggy's Cove, Lunenburg, and Shelburne, then back to Yarmouth. As driven in July 2025: 8 days, 7 nights, about 1,340 miles of driving, including the 186 mile Cabot Trail loop. This is our trip report, not professional guidance. Tides, closures, ferry times, and park rules change, so check them before you go. Trail safety notes: https://backpacksandsnax.com/trail-safety.html Photos: Backpacks &amp; Snax, all rights reserved. Route lines and pin locations (c) OpenStreetMap contributors, available under the Open Database License (openstreetmap.org/copyright). Routed with OSRM. More trips like this: https://www.instagram.com/backpacksandsnax</description>
+    <description>Our 8-day loop from the Yarmouth ferry: Wolfville, Grand Pré, Parrsboro, Hopewell Rocks (New Brunswick), Baddeck and the full Cabot Trail, Peggy's Cove, Lunenburg, and Shelburne, then back to Yarmouth. As driven in July 2025: 8 days, 7 nights, about 1,350 miles of driving, including the 186 mile Cabot Trail loop. Going offline? Google Maps doesn't show this map offline, and cell service is patchy on the Cabot Trail. Download the KML from https://backpacksandsnax.shop/maritime-loop.html and open it in an offline map app like Organic Maps, OsmAnd, or Gaia GPS before you go (photos in the pins need a connection). This is our trip report, not professional guidance. Tides, closures, ferry times, and park rules change, so check them before you go. Trail safety notes: https://backpacksandsnax.com/trail-safety.html Photos: Backpacks &amp; Snax, all rights reserved. Route lines and pin locations (c) OpenStreetMap contributors, available under the Open Database License (openstreetmap.org/copyright). Routed with OSRM. More trips like this: https://www.instagram.com/backpacksandsnax</description>
     <Style id="icon-1517-880E4F-normal">
       <IconStyle>
         <color>ff4f0e88</color>
@@ -279,6 +279,40 @@
         <styleUrl>#icon-photo-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="icon-gf-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-gf-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-gf">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-gf-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-gf-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
 
     <Folder>
       <name>Trip Stops</name>
@@ -299,6 +333,19 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>Evangeline Beach</name>
+        <description><![CDATA[<img src="https://backpacksandsnax.shop/map/maritime-loop/photos/maritime-loop-d2-evangeline-1.jpg" width="400" /><br><img src="https://backpacksandsnax.shop/map/maritime-loop/photos/maritime-loop-d2-evangeline-2.jpg" width="400" /><br><img src="https://backpacksandsnax.shop/map/maritime-loop/photos/maritime-loop-d2-evangeline-3.jpg" width="400" /><br><img src="https://backpacksandsnax.shop/map/maritime-loop/photos/maritime-loop-d2-evangeline-4.jpg" width="400" /><br><br>Day 2, morning: low tide on the Minas Basin, with the red cliffs of Cape Blomidon across the water. The flats run out a long way at low tide and the Fundy tide comes back fast, so check the tide table and keep an eye on the water.]]></description>
+        <styleUrl>#icon-photo</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://backpacksandsnax.shop/map/maritime-loop/photos/maritime-loop-d2-evangeline-1.jpg https://backpacksandsnax.shop/map/maritime-loop/photos/maritime-loop-d2-evangeline-2.jpg https://backpacksandsnax.shop/map/maritime-loop/photos/maritime-loop-d2-evangeline-3.jpg https://backpacksandsnax.shop/map/maritime-loop/photos/maritime-loop-d2-evangeline-4.jpg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-64.3187,45.1374,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>Luckett Vineyards</name>
         <description><![CDATA[<img src="https://backpacksandsnax.shop/map/maritime-loop/photos/maritime-loop-d2-luckett-1.jpg" width="400" /><br><img src="https://backpacksandsnax.shop/map/maritime-loop/photos/maritime-loop-d2-luckett-2.jpg" width="400" /><br><img src="https://backpacksandsnax.shop/map/maritime-loop/photos/maritime-loop-d2-luckett-3.jpg" width="400" /><br><br>Day 2: wine tasting and the red phone booth in the vines, looking out over the Minas Basin. Also close by: Tangled Garden, Domaine de Grand Pré, Blue Beach, Benjamin Bridge, and Lightfoot &amp; Wolfville.]]></description>
         <styleUrl>#icon-1517-880E4F</styleUrl>
@@ -309,6 +356,19 @@
         </ExtendedData>
         <Point>
           <coordinates>-64.2957,45.0721,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Blue Beach</name>
+        <description><![CDATA[<img src="https://backpacksandsnax.shop/map/maritime-loop/photos/maritime-loop-d2-bluebeach-1.jpg" width="400" /><br><br>Day 2: tons of fossils embedded in the shale cliffs here. Look and take photos, and leave the fossils where they are. Nova Scotia protects its fossil sites under the Special Places Protection Act, and disturbing or removing fossils can require a Heritage Research Permit, so check with the Nova Scotia Museum before collecting anything. Stay back from the base of the cliffs, which shed rock, and check the tide before you walk out.]]></description>
+        <styleUrl>#icon-photo</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://backpacksandsnax.shop/map/maritime-loop/photos/maritime-loop-d2-bluebeach-1.jpg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-64.2153,45.0994,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -381,11 +441,11 @@
       </Placemark>
       <Placemark>
         <name>Peggy's Cove</name>
-        <description><![CDATA[<img src="https://backpacksandsnax.shop/map/maritime-loop/photos/maritime-loop-d6-peggys-2.jpg" width="400" /><br><img src="https://backpacksandsnax.shop/map/maritime-loop/photos/maritime-loop-d6-peggys-3.jpg" width="400" /><br><img src="https://backpacksandsnax.shop/map/maritime-loop/photos/maritime-loop-d6-peggys-4.jpg" width="400" /><br><br>Day 6: a stop on the drive from Baddeck to Lunenburg. The lighthouse, the fishing village, and a lot of granite to wander. Stay off the black rocks and back from the water's edge. Waves here can run much bigger than the ones before them and have swept people into the sea.]]></description>
+        <description><![CDATA[<img src="https://backpacksandsnax.shop/map/maritime-loop/photos/maritime-loop-d6-peggys-2.jpg" width="400" /><br><img src="https://backpacksandsnax.shop/map/maritime-loop/photos/maritime-loop-d6-peggys-3.jpg" width="400" /><br><img src="https://backpacksandsnax.shop/map/maritime-loop/photos/maritime-loop-d6-peggys-4.jpg" width="400" /><br><img src="https://backpacksandsnax.shop/map/maritime-loop/photos/maritime-loop-d6-peggys-1.jpg" width="400" /><br><br>Day 6: a stop on the drive from Baddeck to Lunenburg. The lighthouse, the fishing village, and a lot of granite to wander. Stay off the black rocks and back from the water's edge. Waves here can run much bigger than the ones before them and have swept people into the sea.]]></description>
         <styleUrl>#icon-photo</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://backpacksandsnax.shop/map/maritime-loop/photos/maritime-loop-d6-peggys-2.jpg https://backpacksandsnax.shop/map/maritime-loop/photos/maritime-loop-d6-peggys-3.jpg https://backpacksandsnax.shop/map/maritime-loop/photos/maritime-loop-d6-peggys-4.jpg</value>
+            <value>https://backpacksandsnax.shop/map/maritime-loop/photos/maritime-loop-d6-peggys-2.jpg https://backpacksandsnax.shop/map/maritime-loop/photos/maritime-loop-d6-peggys-3.jpg https://backpacksandsnax.shop/map/maritime-loop/photos/maritime-loop-d6-peggys-4.jpg https://backpacksandsnax.shop/map/maritime-loop/photos/maritime-loop-d6-peggys-1.jpg</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -423,10 +483,29 @@
       </Placemark>
     </Folder>
     <Folder>
+      <name>Gluten-free eats</name>
+      <Placemark>
+        <name>Luckett Vineyards: gluten-free options</name>
+        <description><![CDATA[Day 2: really tasty gluten-free originals, plus gluten-free versions of regular dishes. As far as we know it is not a dedicated gluten-free kitchen, so ask how they handle cross-contact. This is our experience in July 2025, not a certification or medical advice. Menus and kitchens change, so tell your server about celiac and confirm how they prepare your food before you order.]]></description>
+        <styleUrl>#icon-gf</styleUrl>
+        <Point>
+          <coordinates>-64.2952,45.0721,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Cable Room at Telegraph House: gluten-free kitchen</name>
+        <description><![CDATA[Day 5 dinner: staff told us the kitchen is dedicated gluten-free, knew celiac disease well, and walked us through how they prep food and keep it safe. Proof you can eat well and stay gluten free. This is our experience in July 2025, not a certification or medical advice. Menus and kitchens change, so tell your server about celiac and confirm how they prepare your food before you order.]]></description>
+        <styleUrl>#icon-gf</styleUrl>
+        <Point>
+          <coordinates>-60.7519,46.1001,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
       <name>The Maritime Loop (driving route)</name>
       <Placemark>
         <name>The Maritime Loop (driving route)</name>
-        <description>About 1,153 mi through our stops in trip order, including the Hopewell day trip and Peggy's Cove. Route lines and pin locations (c) OpenStreetMap contributors, available under the Open Database License (openstreetmap.org/copyright). Routed with OSRM.</description>
+        <description>About 1,161 mi through our stops in trip order, including Evangeline Beach, Blue Beach, the Hopewell day trip, and Peggy's Cove. Route lines and pin locations (c) OpenStreetMap contributors, available under the Open Database License (openstreetmap.org/copyright). Routed with OSRM.</description>
         <styleUrl>#line-1267FF-5000-nodesc</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
@@ -630,21 +709,22 @@
 -64.91075,45.01371,0
 -64.88905,45.02092,0
 -64.8632,45.02832,0
--64.8191,45.04198,0
--64.64696,45.07282,0
--64.58736,45.07888,0
+-64.8219,45.04128,0
+-64.81639,45.04254,0
+-64.64753,45.07273,0
+-64.58762,45.07887,0
+-64.58306,45.07872,0
 -64.58025,45.0783,0
 -64.57402,45.07618,0
 -64.57051,45.07408,0
 -64.55849,45.06481,0
--64.55553,45.06295,0
--64.55221,45.06155,0
+-64.55342,45.062,0
 -64.53649,45.05714,0
--64.51314,45.04965,0
+-64.51258,45.04951,0
 -64.50947,45.0491,0
--64.50602,45.04919,0
+-64.50573,45.04922,0
 -64.4733,45.05434,0
--64.4452,45.06077,0
+-64.4447,45.0609,0
 -64.43256,45.0654,0
 -64.41733,45.07152,0
 -64.40369,45.07498,0
@@ -656,26 +736,50 @@
 -64.38477,45.08546,0
 -64.38235,45.08562,0
 -64.37589,45.08883,0
--64.37241,45.09015,0
+-64.37249,45.09014,0
 -64.36359,45.09132,0
 -64.35659,45.09183,0
 -64.35399,45.09235,0
 -64.34868,45.09203,0
 -64.34507,45.09329,0
 -64.33988,45.09417,0
--64.33414,45.09452,0
+-64.33444,45.09447,0
 -64.33279,45.09495,0
 -64.32982,45.0968,0
 -64.32613,45.09734,0
 -64.32354,45.09923,0
--64.31779,45.10102,0
--64.31471,45.10119,0
--64.30953,45.10084,0
--64.30669,45.1014,0
+-64.31767,45.10105,0
+-64.31371,45.10116,0
+-64.31016,45.10079,0
+-64.30616,45.10162,0
 -64.30537,45.1024,0
--64.30461,45.10097,0
+-64.30575,45.10266,0
+-64.30576,45.10333,0
+-64.30943,45.11034,0
+-64.30973,45.1186,0
+-64.31063,45.12352,0
+-64.31449,45.13354,0
+-64.31807,45.13261,0
+-64.31852,45.13273,0
+-64.31975,45.13613,0
+-64.31964,45.13676,0
+-64.31869,45.13748,0
+-64.31902,45.13809,0
+-64.31869,45.13748,0
+-64.31964,45.13676,0
+-64.31975,45.13613,0
+-64.31852,45.13273,0
+-64.31807,45.13261,0
+-64.31449,45.13354,0
+-64.31063,45.12352,0
+-64.30973,45.1186,0
+-64.30943,45.11034,0
+-64.30576,45.10333,0
+-64.30575,45.10266,0
+-64.30517,45.10226,0
+-64.30474,45.10135,0
 -64.30454,45.09939,0
--64.3036,45.0968,0
+-64.30363,45.09695,0
 -64.30304,45.08616,0
 -64.29985,45.08216,0
 -64.30067,45.08136,0
@@ -694,32 +798,67 @@
 -64.29846,45.0791,0
 -64.29897,45.08019,0
 -64.30067,45.08136,0
--64.29932,45.08265,0
+-64.29901,45.08285,0
+-64.29601,45.08402,0
 -64.29052,45.08687,0
 -64.28628,45.08846,0
 -64.28187,45.08924,0
 -64.27407,45.09286,0
 -64.27187,45.09569,0
 -64.27114,45.09783,0
--64.26886,45.09953,0
+-64.26875,45.09958,0
 -64.26635,45.09966,0
 -64.25873,45.09826,0
--64.25843,45.09918,0
--64.25153,45.09658,0
--64.24578,45.09291,0
--64.23934,45.08636,0
--64.23318,45.07798,0
--64.22972,45.07495,0
--64.2108,45.06473,0
--64.19375,45.05495,0
--64.18443,45.05021,0
--64.18183,45.04825,0
--64.17832,45.04336,0
+-64.25796,45.09984,0
+-64.25717,45.10012,0
+-64.25735,45.10063,0
+-64.25705,45.10249,0
+-64.25358,45.10312,0
+-64.24485,45.10862,0
+-64.24021,45.11,0
+-64.23259,45.10742,0
+-64.2255,45.10182,0
+-64.22468,45.09873,0
+-64.2228,45.09632,0
+-64.22138,45.09665,0
+-64.21816,45.0985,0
+-64.21597,45.09782,0
+-64.21816,45.0985,0
+-64.22138,45.09665,0
+-64.2228,45.09632,0
+-64.21627,45.093,0
+-64.21374,45.09104,0
+-64.21232,45.08919,0
+-64.21146,45.08648,0
+-64.21168,45.08467,0
+-64.21114,45.08382,0
+-64.2067,45.0827,0
+-64.20312,45.08051,0
+-64.20112,45.07854,0
+-64.18924,45.07367,0
+-64.18231,45.07133,0
+-64.18036,45.0697,0
+-64.17959,45.06656,0
+-64.18085,45.064,0
+-64.17585,45.06233,0
+-64.17479,45.06164,0
+-64.17623,45.05947,0
+-64.17672,45.05585,0
+-64.17821,45.05195,0
+-64.17912,45.05088,0
+-64.18301,45.04861,0
+-64.18344,45.04804,0
+-64.18353,45.04724,0
+-64.18283,45.04637,0
+-64.18059,45.04585,0
+-64.17982,45.04533,0
+-64.17791,45.04271,0
 -64.17692,45.04063,0
 -64.17308,45.01476,0
--64.17208,45.01198,0
--64.16977,45.0095,0
--64.16108,45.00481,0
+-64.17261,45.01306,0
+-64.17154,45.01118,0
+-64.17011,45.00975,0
+-64.16141,45.00505,0
 -64.15211,44.99692,0
 -64.15054,44.99632,0
 -64.14851,44.99615,0
